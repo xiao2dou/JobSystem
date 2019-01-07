@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="kechengsheji.Form_admin_delete_cand" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAAABAAAACAAUACAAAYAAAAAGAAAAAABAA=</HashCode>
+      <FileName>Form_admin_delete_cand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kechengsheji.Form_admin_delete_enterprise" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAUACgAQYAAAAAGAACAAAAAI=</HashCode>
+      <FileName>Form_admin_delete_enterprise.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kechengsheji.Form_admin_delete_guide" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAACACAAUACCABYABgAAGAAAAAAAAA=</HashCode>
+      <FileName>Form_admin_delete_guide.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kechengsheji.Form_admin_delete_jz" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAICAAUACAAAcABwAAGAAAAAAAAA=</HashCode>
+      <FileName>Form_admin_delete_jz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kechengsheji.Form_admin_delete_zph" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAADAAABAAAACAAUACAAAYAAAAAGgAAAAAAIA=</HashCode>
+      <FileName>Form_admin_delete_zph.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kechengsheji.Form_admin_edit_guide" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAADACABAAAACAAUICAAAYIAAAQGAAAAAAAAA=</HashCode>
+      <FileName>Form_admin_edit_guide.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kechengsheji.Form_admin_edit_jz" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAIABAAAgCAAUACAAAYAAAESGAAAAAAAAA=</HashCode>
+      <FileName>Form_admin_edit_jz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kechengsheji.Form_admin_edit_zph" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABAAAAACAAABAAAASgAUACAAgYAAAAQGAAgAAAAIA=</HashCode>
+      <FileName>Form_admin_edit_zph.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kechengsheji.Form_cand_info" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAgAUAAIACSAQtAAAAiAAUACAAAEgAABBAAAAAAAAAI=</HashCode>
+      <FileName>Form_cand_info.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kechengsheji.Form_cand_myjob_info" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FACAEAAAACQgABAgABiAQUACAAgQAgAAAAgAgAAAAAg=</HashCode>
+      <FileName>Form_cand_myjob_info.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kechengsheji.Form_enp_zhiwei" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8BABFgAIKCQAApAAIAiAAUCDAQAAEIBBACABBAEAEAA=</HashCode>
+      <FileName>Form_enp_zhiwei.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kechengsheji.Form_enterprise_info" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAFhIIACQgQJAAEhKgAUL6AwAAEAAAAAABAAAgFAQ=</HashCode>
+      <FileName>Form_enterprise_info.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kechengsheji.Form_enterprise_mycand" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cAgQUAgIACSwQtAAACCAAcACgAgEgAAABAAACAAAAAI=</HashCode>
+      <FileName>Form_enterprise_mycand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kechengsheji.Form_guide" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAAAADQgABAAAACCAUgCAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form_guide.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kechengsheji.Form_isdelete" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACCEAIBAAAACAAUACAAgEAAAAAAAAAAAiAAA=</HashCode>
+      <FileName>Form_isdelete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kechengsheji.Form_isdelete_record" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACCAAIBAAAACAAUAiAAgEAAAEAAAAAAACAAA=</HashCode>
+      <FileName>Form_isdelete_record.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kechengsheji.Form_main_admin" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEGAIAgAgiAAwAAEAACAAUD+A1C7EQEisHhIQIABHEA=</HashCode>
+      <FileName>Form_main_admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kechengsheji.Form_main_enterprise" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/8GJYaEAgiFCyBQABDGwKUD+l7CfEQBiMGLSZABBHHE=</HashCode>
+      <FileName>Form_main_enterprise.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kechengsheji.Form_main_qiuzhi" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cKaB4AtBliCCwBEDIBCwIUz+B7DXESmi8EDjQgDBPEA=</HashCode>
+      <FileName>Form_main_qiuzhi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kechengsheji.Form_myjob_info" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cIAAEYEAACQCABQABCmQAUCGFAgMAAJAAEIQBAEAAAE=</HashCode>
+      <FileName>Form_myjob_info.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kechengsheji.Form_register" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAEAACACQCgAAAABGAAUACQAIIAIABoAAAIgBEABA=</HashCode>
+      <FileName>Form_register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kechengsheji.Form_register_success" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAACQAAAgAAACAAAACAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form_register_success.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kechengsheji.form1" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AECAAAiMACAAgACCABCAAUACAQoAAAQAACACAgAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kechengsheji.Program" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kechengsheji.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kechengsheji.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>
